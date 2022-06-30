@@ -7,3 +7,31 @@
 This is a link: [Link](https://en.wikipedia.org/wiki/Raccoon)
 
 This is an image: ![Image](https://pbs.twimg.com/media/E0BulEhXoAAQ0FM?format=jpg&name=large)
+
+* This
+* Is
+* A
+* List
+
+1. This
+2. is
+3. a
+4. numbered
+5. list
+
+This is a horizontal rule:
+
+---
+
+`This is inline code`
+
+```
+this is 
+a block 
+of code
+```
+
+    this is also
+    a block 
+    of code
+    
